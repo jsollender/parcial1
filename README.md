@@ -1,2 +1,2 @@
 # parcial1
-parcial (:
+_parcial 1(:_ 
